@@ -29,6 +29,3 @@ fuel type, transmission type, and owner details.
 ## 🎯 Conclusion
 The model successfully predicts car prices with good accuracy.
 This project demonstrates basic machine learning workflow and regression modeling.
-
----
-👨‍💻 Created as part of Machine Learning Internship Task
